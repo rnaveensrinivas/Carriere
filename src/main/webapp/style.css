@@ -1,0 +1,17 @@
+.btn-custom {
+  background-color: black;
+}
+
+.btn-custom:hover {
+  background-color: #c0c2c0;
+}
+
+.search-worker {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 10px auto;
+    position: relative;
+    text-align:center;
+}
